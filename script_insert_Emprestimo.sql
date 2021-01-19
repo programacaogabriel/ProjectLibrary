@@ -1,0 +1,15 @@
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Gabriel Martins', 'MySQL', '2020-12-21', '2020-12-31', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('João Antonio', 'Drakula - Dark', '2020-12-23', '2021-01-03', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Rafael Martins', 'Logica de Programacao','2020-12-22', '2021-01-02', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Jose', 'Codigo Limpo','2020-12-21', '2020-12-31', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Fabio Avila', 'Nutrição','2020-12-22', '2021-01-02', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Mario Cesar', 'O pequeno principe','2020-12-18', '2020-12-28', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Lucio', 'JAVA OO','2020-12-23', '2021-01-03', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Luiz', 'O morro dos ventos uivantes','2020-12-21', '2020-12-31', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Geovane', 'Drakula - Dark','2020-12-17', '2020-12-27', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Indyanara', 'O Labirinto Do Fauno','2020-12-15', '2020-12-25', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Luana', 'O Peregrino','2020-12-22', '2020-12-25', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Joana', 'Alice no País das Maravilhas','2020-12-23', '2020-12-28', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Lucia', 'JAVA OO','2020-12-22', '2020-12-29', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Larrisa', 'O Peregrino','2020-12-22', '2020-12-29', 'não', '1');
+INSERT INTO biblioteca_municipal_.emprestimo(Nome_Aluno,Nome_Livros,Data_locacao,Data_devolucao,Campo_devolucao,quantidade) VALUES ('Vera', 'O poder da paciencia','2020-12-21', '2020-12-31', 'não', '1');
